@@ -1,4 +1,4 @@
-### Hello, I'm <a href="https://abdul-mozid-fahim.netlify.app/">Abdul Mozid Fahim</a> 👋
+### Hello, I'm [Abdul Mozid Fahim](https://abdul-mozid-fahim.netlify.app/) 👋
 
 - 🌱 I’m currently learning everything🤣
 - ⚡ Fun fact: I love to sleeping😁
