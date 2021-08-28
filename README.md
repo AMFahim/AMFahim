@@ -13,7 +13,8 @@
 
 <br />
 
-![Profile views](https://gpvc.arturio.dev/AMFahim) People
+![Profile views](https://gpvc.arturio.dev/AMFahim)
+<br />
 
 ### Languages and Tools:
 
@@ -43,7 +44,12 @@
 <br/>
 <br/>
 
-![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AMFahim&card_width=550)
+![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AMFahim&card_width=550&bg_color=151515&text_color=daf7dc&title_color=ffffff)
+<br/>
+<br/>
+<br/>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMFahim&bg_color=151515)  
 
 [vscode]: https://code.visualstudio.com/
 [website]: https://abdul-mozid-fahim.netlify.app/
