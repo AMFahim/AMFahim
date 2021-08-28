@@ -13,7 +13,7 @@
 
 <br />
 
-![Profile views](https://gpvc.arturio.dev/AMFahim)
+![Profile views](https://gpvc.arturio.dev/AMFahim) People
 
 ### Languages and Tools:
 
