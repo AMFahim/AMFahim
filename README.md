@@ -60,5 +60,3 @@
 [firebase]: https://firebase.google.com/
 [git]: https://git-scm.com/
 [github]: https://github.com/
-
-
