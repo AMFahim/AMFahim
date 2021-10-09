@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMFahim&bg_color=151515)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AMFahim&bg_color=151515)   -->
 
 [vscode]: https://code.visualstudio.com/
 [website]: https://abdul-mozid-fahim.netlify.app/
