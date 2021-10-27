@@ -42,7 +42,7 @@
 <br/>
 <br/>
 
-![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AMFahim&card_width=550&bg_color=151515&text_color=daf7dc&title_color=ffffff)
+![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=AMFahim&card_width=495&bg_color=151515&text_color=daf7dc&title_color=ffffff)
 <br/>
 <br/>
 
