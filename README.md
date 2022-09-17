@@ -1,7 +1,7 @@
 ### Hello, I'm [Abdul Mozid Fahim!](https://abdul-mozid-fahim.netlify.app/) 👋
 
-- 🌱 I’m currently learning everything🤣
-- ⚡ Fun fact: I love to sleeping😁
+- 🌱 I’m currently learning React Native & Node.js💻
+- ⚡ Fun fact: I love to exploring the world
 </br>
 
 ### Connect with me:
@@ -35,10 +35,6 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AMFahim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <br/>
 <br/>
 
