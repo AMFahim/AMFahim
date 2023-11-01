@@ -1,6 +1,6 @@
 ### Hello, I'm [Abdul Mozid Fahim!](https://abdul-mozid-fahim.netlify.app/) 👋
 
-- 🌱 I’m currently learning React Native & Node.js💻
+- 🌱 I’m currently learning TypeScript💻
 - ⚡ Fun fact: I love to explore the world
 </br>
 
