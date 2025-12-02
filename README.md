@@ -77,5 +77,5 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AMFahim&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AMFahim&color=blue&style=flat-square&label=Profile+Views" alt="Profile views " />
 </div>
