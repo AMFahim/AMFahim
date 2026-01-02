@@ -46,17 +46,6 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AMFahim&show_icons=true&theme=tokyonight" alt="AMFahim's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMFahim&theme=tokyonight" alt="AMFahim's streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMFahim&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
