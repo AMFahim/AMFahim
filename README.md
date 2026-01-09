@@ -62,9 +62,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
     <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" />
   </a>
 </div>
-
 ---
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AMFahim&color=blue&style=flat-square&label=Profile+Views" alt="Profile views " />
 </div>
